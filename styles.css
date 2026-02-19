@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+}
+
+#searchBar {}
+
+#addButton {
+    width: 50px;
+    padding: 5px;
+}
+
+#userInput {
+    width: 200px;
+    border-width: 1px;
+    padding: 10px 20px;
+
+}
