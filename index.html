@@ -8,15 +8,29 @@
     <link rel="stylesheet" href="./styles.css">
 </head>
 
-<body>
+<body style="background-color: rgb(255, 255, 242);">
 
     <div id="searchBar">
         <input id="userInput" type="text" placeholder="Add A Task">
         <button id="addButton">Add</button>
-        <ul>
-            <li>jhbw</li>
-        </ul>
+        <button id="removeButton">Remove</button>
+
+
+
     </div>
+    <div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Task</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody id="tasksTable">
+            </tbody>
+        </table>
+    </div>
+    <script src="script.js"></script>
 </body>
 
 </html>

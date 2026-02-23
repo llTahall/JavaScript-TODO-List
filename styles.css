@@ -2,14 +2,20 @@ body {
     height: 100vh;
     display: flex;
     justify-content: center;
-
     align-items: center;
+    flex-direction: column;
+    gap: 20px;
 }
 
 #searchBar {}
 
 #addButton {
-    width: 50px;
+    width: 60px;
+    padding: 5px;
+}
+
+#removeButton {
+    width: 70px;
     padding: 5px;
 }
 
@@ -18,4 +24,19 @@ body {
     border-width: 1px;
     padding: 10px 20px;
 
+}
+
+table {
+    width: 100%;
+    font-family: Helvetica;
+    font-weight: lighter;
+    font-size: 20px;
+
+}
+
+td,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
 }
