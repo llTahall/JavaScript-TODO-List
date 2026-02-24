@@ -3,7 +3,7 @@
 
 A simple and interactive To-Do List web application built using HTML, CSS, and Vanilla JavaScript.
 
-This project allows users to add, remove, and update tasks, with data persistence using localStorage.
+This project allows users to add and remove tasks using localStorage.
 
 🚀 Features
 
@@ -27,9 +27,4 @@ JavaScript (DOM manipulation)
 
 Browser localStorage for persistence
 
-📂 Project Structure
-📁 todo-list
- ├── index.html
- ├── styles.css
- ├── script.js
- └── README.md
+
