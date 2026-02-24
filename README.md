@@ -5,7 +5,7 @@ A simple and interactive To-Do List web application built using HTML, CSS, and V
 
 This project allows users to add and remove tasks using localStorage.
 
-#🚀 Features
+# 🚀 Features
 
 ✅ Add new tasks
 
@@ -15,7 +15,7 @@ This project allows users to add and remove tasks using localStorage.
 
 💾 Save tasks in browser using localStorage
 
-#🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 HTML, CSS, JavaScript (DOM manipulation)
 
