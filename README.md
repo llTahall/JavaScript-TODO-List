@@ -13,7 +13,7 @@ This project allows users to add and remove tasks using localStorage.
 
 ❌ Remove tasks
 
-💾 Save tasks in browser using localStorage
+💾 Tasks saved automatically in browser using localStorage
 
 # 🛠️ Technologies Used
 
